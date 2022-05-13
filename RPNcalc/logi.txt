@@ -1,0 +1,11 @@
+WEJSCIE	OPERACJA         STOS
+3	daj na stos      3 
+2	daj na stos      3 2 
++	wykonaj operacje 3 2 
+5	daj na stos      5 
+7	daj na stos      5 7 
+8	daj na stos      5 7 8 
++	wykonaj operacje 5 7 8 
+15	daj na stos      5 15 
+*	wykonaj operacje 5 15 
+75	daj na stos      75 
